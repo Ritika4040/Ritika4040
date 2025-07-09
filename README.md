@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There Everyone 👋
 
 <!--
 **Ritika4040/Ritika4040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
