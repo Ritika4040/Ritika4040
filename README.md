@@ -1,6 +1,6 @@
 ## Hi There Everyone 👋
 🔭 I’m currently learning Python language....<br> 
-📫 How to reach me: [ritikadwivedi40@gmail.com]. <br>
+📫 How to reach me: [ritikadwivedi40@gmail.com].<br>
 🔭 I’m currently working on AI project.<br>
 ⚡ Fun fact: I believe every good book has the power to change your perspective.<br> 
 
